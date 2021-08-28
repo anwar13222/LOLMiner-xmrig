@@ -1,0 +1,1 @@
+# LOLMiner-xmrig
